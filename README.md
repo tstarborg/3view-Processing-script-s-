@@ -1,4 +1,5 @@
 # 3view processing script#
+Bash script using IMOD (http://bio3d.colorado.edu) commands.
 
 This is a bash script that is meant to process 3view data stacks and generate an MRC stack
 
